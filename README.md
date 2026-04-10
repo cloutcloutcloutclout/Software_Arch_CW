@@ -1,9 +1,10 @@
 # Run
 
-1 * Add a SQL source in application properties
-2 * clean and build again
-3 * run project
+* Add a SQL source in application properties
+* CLEAN + BUILD gradle 
+* Run the project
 
+I aint even checked the JSP in the localhost yet so idk what it looks like lol
 
 
 
