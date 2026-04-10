@@ -1,17 +1,20 @@
 # Run
 
-* Add a SQL source in application properties
-* clean and build again
-* run project
+1 * Add a SQL source in application properties
+2 * clean and build again
+3 * run project
 
 
 
 
-# Mark scheme
+## Mark scheme
 
 This is what I got,
 
-Total (out of 35): 32.25 Task 1
+Total (out of 35): 32.25 
+
+
+### Task 1
 
 1.0/1.0: The application.properties configuration is correct (e.g. url username password etc.).
 
@@ -21,7 +24,7 @@ Total (out of 35): 32.25 Task 1
 
 
 
-Task 2
+### Task 2
 
 0.5/0.5: The @Entity and @Id annotations are correct.
 
@@ -49,7 +52,7 @@ Task 2
 
 
 
-Task 3
+### Task 3
 
 1.0/1.0: All repositories were found.
 
@@ -61,7 +64,7 @@ Task 3
 
 
 
-Task 4
+### Task 4
 
 1.0/1.0: Tables and columns set up as expected for task 4.
 
@@ -89,13 +92,13 @@ Task 4
 
 
 
-Task 5
+### Task 5
 
 1.0/1.0: All id variables have @GeneratedValue
 
 
 
-Task 6 Task 6.1
+### Task 6 Task 6.1
 
 1.0/1.0: ArrayLists have been successfully removed from the project.
 
@@ -103,7 +106,7 @@ Task 6 Task 6.1
 
 
 
-Task 6.2
+### Task 6.2
 
 0.0/0.5: The findVendor method should be removed from AddEditController.
 
@@ -121,7 +124,7 @@ Task 6.2
 
 
 
-Task 6.3
+### Task 6.3
 
 1.0/1.0: /editVendorProfile works as expected
 
@@ -129,7 +132,7 @@ Task 6.3
 
 
 
-Task 6.4
+### Task 6.4
 
 0.5/0.5: /newAward works as expected
 
@@ -149,7 +152,7 @@ Task 6.4
 
 
 
-Task 6.5
+### Task 6.5
 
 0.5/0.5: Vendor's dishes has CascadeType.ALL
 
@@ -171,7 +174,7 @@ Task 6.5
 
 
 
-Task 6.6
+### Task 6.6
 
 0.5/0.5: Dish's reviews and Vendor's awards have CascadeType.ALL
 
@@ -189,7 +192,7 @@ Task 6.6
 
 
 
-Task 6.7
+### Task 6.7
 
 0.5/0.5: Empty names are rejected when adding a vendor
 
@@ -207,7 +210,7 @@ Task 6.7
 
 
 
-Task 6.8
+### Task 6.8
 
 1.0/1.0: findByNameContains was not found in VendorRepository
 
@@ -219,7 +222,7 @@ Task 6.8
 
 
 
-Task 7
+### Task 7
 
 0.5/0.5: Dish's tags are loaded using the FetchType EAGER
 
